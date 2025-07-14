@@ -1,0 +1,18 @@
+langchain>=0.1.0
+openai>=1.0.0
+chromadb>=0.4.0
+streamlit>=1.25.0
+python-dotenv>=1.0.0
+pypdf>=3.0.0
+pandas>=2.0.0
+loguru>=0.7.0
+tqdm>=4.0.0
+# Optional: for docx/pdf export
+python-docx>=1.0.0
+fpdf2>=2.7.0
+# For type hints
+typing-extensions>=4.0.0
+# For advanced: langgraph
+langgraph>=0.0.10
+# For gradio alternative UI
+# gradio>=3.50.0 
