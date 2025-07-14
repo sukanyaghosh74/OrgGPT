@@ -1,6 +1,6 @@
 from typing import List, Dict, Any
-from .vectorstore import VectorStore
-from .prompt import MEMO_SECTIONS, build_memo_prompt
+from orggpt.app.vectorstore import VectorStore
+from orggpt.app.prompt import MEMO_SECTIONS, build_memo_prompt
 from loguru import logger
 import openai
 import os

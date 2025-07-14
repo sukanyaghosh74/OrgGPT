@@ -9,6 +9,7 @@ try:
 except ImportError:
     PdfReader = None
 
+# No relative imports to change in this file.
 
 def read_pdf(file_path: Union[str, Path]) -> str:
     """

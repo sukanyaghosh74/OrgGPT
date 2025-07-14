@@ -1,8 +1,8 @@
 import streamlit as st
 from pathlib import Path
-from .loader import load_and_chunk
-from .vectorstore import VectorStore
-from .chain import MemoRAGChain
+from orggpt.app.loader import load_and_chunk
+from orggpt.app.vectorstore import VectorStore
+from orggpt.app.chain import MemoRAGChain
 from loguru import logger
 import uuid
 
