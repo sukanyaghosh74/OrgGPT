@@ -116,6 +116,6 @@ OrgGPT was inspired by the pain of digging through hundreds of SEC filings and a
 
 ## 🩷 Author
 
-Made with 🩷 by Sukanya Ghosh
+Built with 🩷 by Sukanya Ghosh
 
 > "Imagine having a private equity analyst who never sleeps, never misses context, and reasons over everything you've ever read."
